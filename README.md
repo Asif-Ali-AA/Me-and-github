@@ -1,3 +1,3 @@
 # Me-and-github
-my first repository
-author-Asif ali
+My first repository
+Author-Asif ali
